@@ -1,0 +1,152 @@
+[
+    {
+        "title": "Bun has been acquired by Anthropic",
+        "comments": 7,
+        "link": "https://bun.com/blog/bun-joins-anthropic"
+    },
+    {
+        "title": "100000 TPS over a billion rows: the unreasonable effectiveness of SQLite",
+        "comments": 0,
+        "link": "https://andersmurphy.com/2025/12/02/100000-tps-over-a-billion-rows-the-unreasonable-effectiveness-of-sqlite.html"
+    },
+    {
+        "title": "I Designed and Printed a Custom Nose Guard to Help My Dog with DLE",
+        "comments": 18,
+        "link": "https://snoutcover.com/billie-story"
+    },
+    {
+        "title": "Learning Music with Strudel",
+        "comments": 58,
+        "link": "https://terryds.notion.site/Learning-Music-with-Strudel-2ac98431b24180deb890cc7de667ea92"
+    },
+    {
+        "title": "Mistral 3 family of models released",
+        "comments": 138,
+        "link": "https://mistral.ai/news/mistral-3"
+    },
+    {
+        "title": "Nixtml: Static website and blog generator written in Nix",
+        "comments": 16,
+        "link": "https://github.com/arnarg/nixtml"
+    },
+    {
+        "title": "Addressing the adding situation",
+        "comments": 68,
+        "link": "https://xania.org/202512/02-adding-integers"
+    },
+    {
+        "title": "YesNotice",
+        "comments": 37,
+        "link": "https://infinitedigits.co/docs/software/yesnotice/"
+    },
+    {
+        "title": "Poka Labs (YC S24) Is Hiring a Founding Engineer",
+        "comments": 0,
+        "link": "https://www.ycombinator.com/companies/poka-labs/jobs/RCQgmqB-founding-engineer"
+    },
+    {
+        "title": "Advent of Compiler Optimisations 2025",
+        "comments": 43,
+        "link": "https://xania.org/202511/advent-of-compiler-optimisation"
+    },
+    {
+        "title": "Python Data Science Handbook",
+        "comments": 27,
+        "link": "https://jakevdp.github.io/PythonDataScienceHandbook/"
+    },
+    {
+        "title": "A series of vignettes from my childhood and early career",
+        "comments": 70,
+        "link": "https://www.jasonscheirer.com/weblog/vignettes/"
+    },
+    {
+        "title": "Lowtype: Elegant Types in Ruby",
+        "comments": 7,
+        "link": "https://codeberg.org/Iow/type"
+    },
+    {
+        "title": "Show HN: Marmot – Single-binary data catalog (no Kafka, no Elasticsearch)",
+        "comments": 12,
+        "link": "https://github.com/marmotdata/marmot"
+    },
+    {
+        "title": "Apple Releases Open Weights Video Model",
+        "comments": 125,
+        "link": "https://starflow-v.github.io"
+    },
+    {
+        "title": "What will enter the public domain in 2026?",
+        "comments": 282,
+        "link": "https://publicdomainreview.org/features/entering-the-public-domain/2026/"
+    },
+    {
+        "title": "4.3M Browsers Infected: Inside ShadyPanda's 7-Year Malware Campaign",
+        "comments": 1,
+        "link": "https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign"
+    },
+    {
+        "title": "The Junior Hiring Crisis",
+        "comments": 0,
+        "link": "https://people-work.io/blog/junior-hiring-crisis/"
+    },
+    {
+        "title": "YouTube increases FreeBASIC performance (2019)",
+        "comments": 32,
+        "link": "https://freebasic.net/forum/viewtopic.php?t=27927"
+    },
+    {
+        "title": "Comparing AWS Lambda ARM64 vs. x86_64 Performance Across Runtimes in Late 2025",
+        "comments": 47,
+        "link": "https://chrisebert.net/comparing-aws-lambda-arm64-vs-x86_64-performance-across-multiple-runtimes-in-late-2025/"
+    },
+    {
+        "title": "Lazier Binary Decision Diagrams for set-theoretic types",
+        "comments": 5,
+        "link": "https://elixir-lang.org/blog/2025/12/02/lazier-bdds-for-set-theoretic-types/"
+    },
+    {
+        "title": "Apple to beat Samsung in smartphone shipments for first time in 14 years",
+        "comments": 18,
+        "link": "https://sherwood.news/tech/apple-to-beat-samsung-in-smartphone-shipments-for-first-time-in-14-years/"
+    },
+    {
+        "title": "Beej's Guide to Learning Computer Science",
+        "comments": 115,
+        "link": "https://beej.us/guide/bglcs/"
+    },
+    {
+        "title": "Progress on TypeScript 7 – December 2025",
+        "comments": 4,
+        "link": "https://devblogs.microsoft.com/typescript/progress-on-typescript-7-december-2025/"
+    },
+    {
+        "title": "Show HN: RunMat – runtime with auto CPU/GPU routing for dense math",
+        "comments": 3,
+        "link": "https://github.com/runmat-org/runmat"
+    },
+    {
+        "title": "How Brian Eno Created Ambient 1: Music for Airports (2019)",
+        "comments": 85,
+        "link": "https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/"
+    },
+    {
+        "title": "An LED panel that shows the aviation around you",
+        "comments": 16,
+        "link": "https://github.com/AxisNimble/TheFlightWall_OSS"
+    },
+    {
+        "title": "Fallout 2's Chris Avellone describes his game design philosophy",
+        "comments": 18,
+        "link": "https://arstechnica.com/gaming/2025/12/fallout-2-designer-chris-avellone-recalls-his-first-forays-into-game-development/"
+    },
+    {
+        "title": "Rootless Pings in Rust",
+        "comments": 73,
+        "link": "https://bou.ke/blog/rust-ping/"
+    },
+    {
+        "title": "Memtest86+ v8.00 Released",
+        "comments": 0,
+        "link": "https://github.com/memtest86plus/memtest86plus/releases/tag/v8.00"
+    }
+]

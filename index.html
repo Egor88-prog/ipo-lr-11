@@ -1,0 +1,249 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hacker News Parsed Data</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #9bc5c3, #616161);
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: white;
+            margin-bottom: 30px;
+        }
+        table {
+            width: 90%;
+            margin: auto;
+            border-collapse: collapse;
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+        }
+        th {
+            background: #333;
+            color: #fff;
+            padding: 12px;
+            font-size: 18px;
+        }
+        td {
+            padding: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+        tr:hover {
+            background: #f1f1f1;
+        }
+        .source {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .source a {
+            color: #fff;
+            font-size: 18px;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Hacker News — Parsed News</h1>
+
+<table>
+    <tr>
+        <th>#</th>
+        <th>Title</th>
+        <th>Comments</th>
+    </tr>
+
+    <tr>
+        <td>1</td>
+        <td><a href="https://bun.com/blog/bun-joins-anthropic" target="_blank">Bun has been acquired by Anthropic</a></td>
+        <td>7</td>
+    </tr>
+
+    <tr>
+        <td>2</td>
+        <td><a href="https://andersmurphy.com/2025/12/02/100000-tps-over-a-billion-rows-the-unreasonable-effectiveness-of-sqlite.html" target="_blank">100000 TPS over a billion rows: the unreasonable effectiveness of SQLite</a></td>
+        <td>0</td>
+    </tr>
+
+    <tr>
+        <td>3</td>
+        <td><a href="https://snoutcover.com/billie-story" target="_blank">I Designed and Printed a Custom Nose Guard to Help My Dog with DLE</a></td>
+        <td>18</td>
+    </tr>
+
+    <tr>
+        <td>4</td>
+        <td><a href="https://terryds.notion.site/Learning-Music-with-Strudel-2ac98431b24180deb890cc7de667ea92" target="_blank">Learning Music with Strudel</a></td>
+        <td>58</td>
+    </tr>
+
+    <tr>
+        <td>5</td>
+        <td><a href="https://mistral.ai/news/mistral-3" target="_blank">Mistral 3 family of models released</a></td>
+        <td>138</td>
+    </tr>
+
+    <tr>
+        <td>6</td>
+        <td><a href="https://github.com/arnarg/nixtml" target="_blank">Nixtml: Static website and blog generator written in Nix</a></td>
+        <td>16</td>
+    </tr>
+
+    <tr>
+        <td>7</td>
+        <td><a href="https://xania.org/202512/02-adding-integers" target="_blank">Addressing the adding situation</a></td>
+        <td>68</td>
+    </tr>
+
+    <tr>
+        <td>8</td>
+        <td><a href="https://infinitedigits.co/docs/software/yesnotice/" target="_blank">YesNotice</a></td>
+        <td>37</td>
+    </tr>
+
+    <tr>
+        <td>9</td>
+        <td><a href="https://www.ycombinator.com/companies/poka-labs/jobs/RCQgmqB-founding-engineer" target="_blank">Poka Labs (YC S24) Is Hiring a Founding Engineer</a></td>
+        <td>0</td>
+    </tr>
+
+    <tr>
+        <td>10</td>
+        <td><a href="https://xania.org/202511/advent-of-compiler-optimisation" target="_blank">Advent of Compiler Optimisations 2025</a></td>
+        <td>43</td>
+    </tr>
+
+    <tr>
+        <td>11</td>
+        <td><a href="https://jakevdp.github.io/PythonDataScienceHandbook/" target="_blank">Python Data Science Handbook</a></td>
+        <td>27</td>
+    </tr>
+
+    <tr>
+        <td>12</td>
+        <td><a href="https://www.jasonscheirer.com/weblog/vignettes/" target="_blank">A series of vignettes from my childhood and early career</a></td>
+        <td>70</td>
+    </tr>
+
+    <tr>
+        <td>13</td>
+        <td><a href="https://codeberg.org/Iow/type" target="_blank">Lowtype: Elegant Types in Ruby</a></td>
+        <td>7</td>
+    </tr>
+
+    <tr>
+        <td>14</td>
+        <td><a href="https://github.com/marmotdata/marmot" target="_blank">Show HN: Marmot – Single-binary data catalog (no Kafka, no Elasticsearch)</a></td>
+        <td>12</td>
+    </tr>
+
+    <tr>
+        <td>15</td>
+        <td><a href="https://starflow-v.github.io" target="_blank">Apple Releases Open Weights Video Model</a></td>
+        <td>125</td>
+    </tr>
+
+    <tr>
+        <td>16</td>
+        <td><a href="https://publicdomainreview.org/features/entering-the-public-domain/2026/" target="_blank">What will enter the public domain in 2026?</a></td>
+        <td>282</td>
+    </tr>
+
+    <tr>
+        <td>17</td>
+        <td><a href="https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign" target="_blank">4.3M Browsers Infected: Inside ShadyPanda's 7-Year Malware Campaign</a></td>
+        <td>1</td>
+    </tr>
+
+    <tr>
+        <td>18</td>
+        <td><a href="https://people-work.io/blog/junior-hiring-crisis/" target="_blank">The Junior Hiring Crisis</a></td>
+        <td>0</td>
+    </tr>
+
+    <tr>
+        <td>19</td>
+        <td><a href="https://freebasic.net/forum/viewtopic.php?t=27927" target="_blank">YouTube increases FreeBASIC performance (2019)</a></td>
+        <td>32</td>
+    </tr>
+
+    <tr>
+        <td>20</td>
+        <td><a href="https://chrisebert.net/comparing-aws-lambda-arm64-vs-x86_64-performance-across-multiple-runtimes-in-late-2025/" target="_blank">Comparing AWS Lambda ARM64 vs. x86_64 Performance Across Runtimes in Late 2025</a></td>
+        <td>47</td>
+    </tr>
+
+    <tr>
+        <td>21</td>
+        <td><a href="https://elixir-lang.org/blog/2025/12/02/lazier-bdds-for-set-theoretic-types/" target="_blank">Lazier Binary Decision Diagrams for set-theoretic types</a></td>
+        <td>5</td>
+    </tr>
+
+    <tr>
+        <td>22</td>
+        <td><a href="https://sherwood.news/tech/apple-to-beat-samsung-in-smartphone-shipments-for-first-time-in-14-years/" target="_blank">Apple to beat Samsung in smartphone shipments for first time in 14 years</a></td>
+        <td>18</td>
+    </tr>
+
+    <tr>
+        <td>23</td>
+        <td><a href="https://beej.us/guide/bglcs/" target="_blank">Beej's Guide to Learning Computer Science</a></td>
+        <td>115</td>
+    </tr>
+
+    <tr>
+        <td>24</td>
+        <td><a href="https://devblogs.microsoft.com/typescript/progress-on-typescript-7-december-2025/" target="_blank">Progress on TypeScript 7 – December 2025</a></td>
+        <td>4</td>
+    </tr>
+
+    <tr>
+        <td>25</td>
+        <td><a href="https://github.com/runmat-org/runmat" target="_blank">Show HN: RunMat – runtime with auto CPU/GPU routing for dense math</a></td>
+        <td>3</td>
+    </tr>
+
+    <tr>
+        <td>26</td>
+        <td><a href="https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/" target="_blank">How Brian Eno Created Ambient 1: Music for Airports (2019)</a></td>
+        <td>85</td>
+    </tr>
+
+    <tr>
+        <td>27</td>
+        <td><a href="https://github.com/AxisNimble/TheFlightWall_OSS" target="_blank">An LED panel that shows the aviation around you</a></td>
+        <td>16</td>
+    </tr>
+
+    <tr>
+        <td>28</td>
+        <td><a href="https://arstechnica.com/gaming/2025/12/fallout-2-designer-chris-avellone-recalls-his-first-forays-into-game-development/" target="_blank">Fallout 2's Chris Avellone describes his game design philosophy</a></td>
+        <td>18</td>
+    </tr>
+
+    <tr>
+        <td>29</td>
+        <td><a href="https://bou.ke/blog/rust-ping/" target="_blank">Rootless Pings in Rust</a></td>
+        <td>73</td>
+    </tr>
+
+    <tr>
+        <td>30</td>
+        <td><a href="https://github.com/memtest86plus/memtest86plus/releases/tag/v8.00" target="_blank">Memtest86+ v8.00 Released</a></td>
+        <td>0</td>
+    </tr>
+
+</table>
+
+<div class="source">
+    <p><a href="https://news.ycombinator.com/" target="_blank">Оригинальный источник данных — Hacker News</a></p>
+</div>
+
+</body>
+</html>
